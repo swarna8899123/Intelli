@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="1"
+            failures="0"
+            tests="2">
+
+  <testsuite name="add"
+    errors="1" failures="0" hostname="" id="" package="add" skipped="0"
+    tests="2" time="23.86" timestamp="">
+  
+    <testcase name="Test Home Page" classname="add" time="14.91" assertions="6">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Test nav bar" classname="add" time="8.949" assertions="6">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>

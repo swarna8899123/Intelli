@@ -1,0 +1,28 @@
+{
+  "src_folders": ["test"],
+  "output_folders":"reports",
+  "selenium":{
+    "start_process":false   
+  },
+
+
+
+"test_settings":{
+    "default":{
+        "launch_url":"http://demo.divami.com/intelliscan-qa/",
+        "selenium_port":9515,
+        "selenium_host":"localhost",
+        "default_path_prefix":"",
+        "desiredCapabilities":{
+         "browserName":"chrome"
+        }
+    }
+},
+"globals_path":"./global.js"
+  
+
+}
+
+
+
+
